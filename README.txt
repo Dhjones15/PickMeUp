@@ -1,4 +1,4 @@
-PickMeUp made with React-Native and EXPO CLI.
+PickMeUp .js with React-Native and EXPO CLI.
 ********
 An app created for fun as a way to share shopping lists easily with family and notify them to add to a list if a user is going to the store. 
 
